@@ -1,0 +1,14 @@
+C:\Users\Tag\OneDrive - Cairo University - Students\Desktop\BackEndOut\.net\codes\Level2-S3\Level2-S3\bin\Debug\net9.0\Level2-S3.exe
+C:\Users\Tag\OneDrive - Cairo University - Students\Desktop\BackEndOut\.net\codes\Level2-S3\Level2-S3\bin\Debug\net9.0\Level2-S3.deps.json
+C:\Users\Tag\OneDrive - Cairo University - Students\Desktop\BackEndOut\.net\codes\Level2-S3\Level2-S3\bin\Debug\net9.0\Level2-S3.runtimeconfig.json
+C:\Users\Tag\OneDrive - Cairo University - Students\Desktop\BackEndOut\.net\codes\Level2-S3\Level2-S3\bin\Debug\net9.0\Level2-S3.dll
+C:\Users\Tag\OneDrive - Cairo University - Students\Desktop\BackEndOut\.net\codes\Level2-S3\Level2-S3\bin\Debug\net9.0\Level2-S3.pdb
+C:\Users\Tag\OneDrive - Cairo University - Students\Desktop\BackEndOut\.net\codes\Level2-S3\Level2-S3\obj\Debug\net9.0\Level2-S3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tag\OneDrive - Cairo University - Students\Desktop\BackEndOut\.net\codes\Level2-S3\Level2-S3\obj\Debug\net9.0\Level2-S3.AssemblyInfoInputs.cache
+C:\Users\Tag\OneDrive - Cairo University - Students\Desktop\BackEndOut\.net\codes\Level2-S3\Level2-S3\obj\Debug\net9.0\Level2-S3.AssemblyInfo.cs
+C:\Users\Tag\OneDrive - Cairo University - Students\Desktop\BackEndOut\.net\codes\Level2-S3\Level2-S3\obj\Debug\net9.0\Level2-S3.csproj.CoreCompileInputs.cache
+C:\Users\Tag\OneDrive - Cairo University - Students\Desktop\BackEndOut\.net\codes\Level2-S3\Level2-S3\obj\Debug\net9.0\Level2-S3.dll
+C:\Users\Tag\OneDrive - Cairo University - Students\Desktop\BackEndOut\.net\codes\Level2-S3\Level2-S3\obj\Debug\net9.0\refint\Level2-S3.dll
+C:\Users\Tag\OneDrive - Cairo University - Students\Desktop\BackEndOut\.net\codes\Level2-S3\Level2-S3\obj\Debug\net9.0\Level2-S3.pdb
+C:\Users\Tag\OneDrive - Cairo University - Students\Desktop\BackEndOut\.net\codes\Level2-S3\Level2-S3\obj\Debug\net9.0\Level2-S3.genruntimeconfig.cache
+C:\Users\Tag\OneDrive - Cairo University - Students\Desktop\BackEndOut\.net\codes\Level2-S3\Level2-S3\obj\Debug\net9.0\ref\Level2-S3.dll
