@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Level2-S4": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
