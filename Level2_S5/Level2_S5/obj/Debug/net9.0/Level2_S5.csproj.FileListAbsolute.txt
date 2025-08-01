@@ -1,0 +1,14 @@
+C:\Users\Tag\OneDrive - Cairo University - Students\Desktop\BackEndOut\.NET\codes\Level2_S5\Level2_S5\bin\Debug\net9.0\Level2_S5.exe
+C:\Users\Tag\OneDrive - Cairo University - Students\Desktop\BackEndOut\.NET\codes\Level2_S5\Level2_S5\bin\Debug\net9.0\Level2_S5.deps.json
+C:\Users\Tag\OneDrive - Cairo University - Students\Desktop\BackEndOut\.NET\codes\Level2_S5\Level2_S5\bin\Debug\net9.0\Level2_S5.runtimeconfig.json
+C:\Users\Tag\OneDrive - Cairo University - Students\Desktop\BackEndOut\.NET\codes\Level2_S5\Level2_S5\bin\Debug\net9.0\Level2_S5.dll
+C:\Users\Tag\OneDrive - Cairo University - Students\Desktop\BackEndOut\.NET\codes\Level2_S5\Level2_S5\bin\Debug\net9.0\Level2_S5.pdb
+C:\Users\Tag\OneDrive - Cairo University - Students\Desktop\BackEndOut\.NET\codes\Level2_S5\Level2_S5\obj\Debug\net9.0\Level2_S5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tag\OneDrive - Cairo University - Students\Desktop\BackEndOut\.NET\codes\Level2_S5\Level2_S5\obj\Debug\net9.0\Level2_S5.AssemblyInfoInputs.cache
+C:\Users\Tag\OneDrive - Cairo University - Students\Desktop\BackEndOut\.NET\codes\Level2_S5\Level2_S5\obj\Debug\net9.0\Level2_S5.AssemblyInfo.cs
+C:\Users\Tag\OneDrive - Cairo University - Students\Desktop\BackEndOut\.NET\codes\Level2_S5\Level2_S5\obj\Debug\net9.0\Level2_S5.csproj.CoreCompileInputs.cache
+C:\Users\Tag\OneDrive - Cairo University - Students\Desktop\BackEndOut\.NET\codes\Level2_S5\Level2_S5\obj\Debug\net9.0\Level2_S5.dll
+C:\Users\Tag\OneDrive - Cairo University - Students\Desktop\BackEndOut\.NET\codes\Level2_S5\Level2_S5\obj\Debug\net9.0\refint\Level2_S5.dll
+C:\Users\Tag\OneDrive - Cairo University - Students\Desktop\BackEndOut\.NET\codes\Level2_S5\Level2_S5\obj\Debug\net9.0\Level2_S5.pdb
+C:\Users\Tag\OneDrive - Cairo University - Students\Desktop\BackEndOut\.NET\codes\Level2_S5\Level2_S5\obj\Debug\net9.0\Level2_S5.genruntimeconfig.cache
+C:\Users\Tag\OneDrive - Cairo University - Students\Desktop\BackEndOut\.NET\codes\Level2_S5\Level2_S5\obj\Debug\net9.0\ref\Level2_S5.dll

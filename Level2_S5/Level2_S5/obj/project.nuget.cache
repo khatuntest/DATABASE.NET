@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+dU9ZLLiKzA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tag\\OneDrive - Cairo University - Students\\Desktop\\BackEndOut\\.NET\\codes\\Level2_S5\\Level2_S5\\Level2_S5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tag\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512"
+  ],
+  "logs": []
+}
